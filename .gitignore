@@ -1,0 +1,15 @@
+# Ignorar el entorno virtual
+venv_curso/
+
+# Archivos y carpetas generados automáticamente por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de sistema (Mac y Windows)
+.DS_Store
+Thumbs.db
+
+# Configuración específica de IDEs (opcional)
+.vscode/
+.idea/
